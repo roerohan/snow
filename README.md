@@ -1,3 +1,3 @@
-# roerohan.github.io
+# snow
 
-- Deployed on [roerohan.github.io](https://roerohan.github.io).
+A sample three JS snow component using React JS.
