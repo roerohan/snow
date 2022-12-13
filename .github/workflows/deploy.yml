@@ -16,7 +16,7 @@ jobs:
 
     - name: npm install, lint
       run: |
-        npm install
+        npm install -f
         npm run lint:fix
         npm run build
       
