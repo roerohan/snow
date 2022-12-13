@@ -46,7 +46,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "echo done"
+      "pre-commit": "npm ls"
     }
   },
   "devDependencies": {
