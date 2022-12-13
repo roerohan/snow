@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef4f1f53.chunk.css",
-    "main.js": "/static/js/main.d8ae3b01.chunk.js",
-    "main.js.map": "/static/js/main.d8ae3b01.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a57470d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a57470d5.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.89ab4daf.chunk.js": "/static/js/2.89ab4daf.chunk.js",
-    "static/js/2.89ab4daf.chunk.js.map": "/static/js/2.89ab4daf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.61906437028c0837114822c8c644f38f.js": "/precache-manifest.61906437028c0837114822c8c644f38f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.ef4f1f53.chunk.css.map": "/static/css/main.ef4f1f53.chunk.css.map",
-    "static/js/2.89ab4daf.chunk.js.LICENSE.txt": "/static/js/2.89ab4daf.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/static/media/home-bg.5637d495.jpeg"
+    "main.css": "/snow/static/css/main.9e575fb6.chunk.css",
+    "main.js": "/snow/static/js/main.f4fcaab0.chunk.js",
+    "main.js.map": "/snow/static/js/main.f4fcaab0.chunk.js.map",
+    "runtime-main.js": "/snow/static/js/runtime-main.8dfe2dd1.js",
+    "runtime-main.js.map": "/snow/static/js/runtime-main.8dfe2dd1.js.map",
+    "static/css/2.80f479d8.chunk.css": "/snow/static/css/2.80f479d8.chunk.css",
+    "static/js/2.61a28e2c.chunk.js": "/snow/static/js/2.61a28e2c.chunk.js",
+    "static/js/2.61a28e2c.chunk.js.map": "/snow/static/js/2.61a28e2c.chunk.js.map",
+    "index.html": "/snow/index.html",
+    "precache-manifest.7ff81332e2a74657c15c1ad0e16d3480.js": "/snow/precache-manifest.7ff81332e2a74657c15c1ad0e16d3480.js",
+    "service-worker.js": "/snow/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/snow/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.9e575fb6.chunk.css.map": "/snow/static/css/main.9e575fb6.chunk.css.map",
+    "static/js/2.61a28e2c.chunk.js.LICENSE.txt": "/snow/static/js/2.61a28e2c.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/snow/static/media/home-bg.5637d495.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a57470d5.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.89ab4daf.chunk.js",
-    "static/css/main.ef4f1f53.chunk.css",
-    "static/js/main.d8ae3b01.chunk.js"
+    "static/js/runtime-main.8dfe2dd1.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.61a28e2c.chunk.js",
+    "static/css/main.9e575fb6.chunk.css",
+    "static/js/main.f4fcaab0.chunk.js"
   ]
 }
